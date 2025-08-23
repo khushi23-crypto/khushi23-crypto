@@ -62,7 +62,7 @@ My approach combines clean code, aesthetic design principles, and problem-solvin
 
 - ✈️ [Travelastic Website](https://top-jqy5-lp3587269s-projects.vercel.app/)  
 - 🚘 [AutoCare Landing Page](https://shimmering-semifreddo-73845c.netlify.app/)
-- 💬 [ChatBOT]
+- 💬 [ChatBOT-react](https://chat-bot-react-tau.vercel.app/)
 - 🌸 *Iris Flower Classification (ML)*  
 - 🧑‍💼 *Automatic Attendance System with Face Recognition (Mini Project)*
 
