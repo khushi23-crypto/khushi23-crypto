@@ -17,7 +17,7 @@ My approach combines clean code, aesthetic design principles, and problem-solvin
 
 ## 🚀 Tech Stack & Skills
 
-- 💻 **Frontend:** HTML, CSS, JavaScript, React, Next.js  
+- 💻 **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
 - 🎨 **Design:** UI/UX Fundamentals  
 - 🤖 **Machine Learning:** Basics, with practical project experience  
 - ✍️ **Content Writing:** Technical & creative  
@@ -27,9 +27,10 @@ My approach combines clean code, aesthetic design principles, and problem-solvin
 
 ## 💼 Experience
 
-- **Web Dev Intern** @ Prodigy Infotech (Virtual) — *Machine Learning*
+- **Machine Learning Intern** @ Prodigy Infotech (Virtual) 
 - **Content Writing Intern** @ InAmigos Foundation (Virtual)
 - **NGO Intern** @ NayePankh Foundation (Virtual)
+- **Frontend Developer Intern** @CODEXINTERN (Virtual)
 
 ---
 
@@ -49,18 +50,19 @@ My approach combines clean code, aesthetic design principles, and problem-solvin
 
 ## 🌟 Certifications
 
-- Machine Learning  
+- Machine Learning
+- Frontend Developer
 - Cyber Security  
 - Content Writing  
 - Induction Programme (Organizing Committee)  
-- Badminton (2024, 2025)  
 
 ---
 
 ## 🌍 Projects
 
 - ✈️ [Travelastic Website](https://top-jqy5-lp3587269s-projects.vercel.app/)  
-- 🚘 [AutoCare Landing Page](https://shimmering-semifreddo-73845c.netlify.app/)  
+- 🚘 [AutoCare Landing Page](https://shimmering-semifreddo-73845c.netlify.app/)
+- 💬 [ChatBOT]
 - 🌸 *Iris Flower Classification (ML)*  
 - 🧑‍💼 *Automatic Attendance System with Face Recognition (Mini Project)*
 
@@ -68,8 +70,8 @@ My approach combines clean code, aesthetic design principles, and problem-solvin
 
 ## ⚡ Interests
 
-- Badminton 🏸  
-- Web Development & UI/UX 🎨  
+- Web Development & UI/UX 🎨
+- Badminton 🏸    
 - Artificial Intelligence / Machine Learning 🤖  
 - Photography 📷  
 - Video Editing 🎬  
