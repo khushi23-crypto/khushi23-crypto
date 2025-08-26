@@ -2,9 +2,9 @@
 
 **Web Developer | Frontend Enthusiast | Tech Learner**
 
-🌐 [LinkedIn](https://www.linkedin.com/in/kajal-saini-849a9332a) •  
-🐙 [GitHub](https://github.com/kajalsaini611) •  
-📸 [Instagram](https://www.instagram.com/kj_saini_22.10/) •  
+🌐 [LinkedIn](https://www.linkedin.com/in/kajal-saini-849a9332a)   
+🐙 [GitHub](https://github.com/kajalsaini611) 
+📸 [Instagram](https://www.instagram.com/kj_saini_22.10/)  
 💼 [Freelancer](https://www.freelancer.in/u/kajalsaini4466)  
 
 ---
