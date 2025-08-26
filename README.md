@@ -1,4 +1,4 @@
-# 👩‍💻 Kajal Saini
+# 👩‍💻 Hi, I'm Kajal Saini
 
 **Web Developer | Frontend Enthusiast | Tech Learner**
 
@@ -9,9 +9,19 @@
 
 ---
 
-Hi! I'm **Kajal Saini**, a passionate and dedicated web developer from India. With a solid foundation in front-end technologies and hands-on experience in real-world projects, I focus on building responsive, intuitive, and user-friendly web applications. I’m currently pursuing a B.Tech in Information Technology at Rajkiya Engineering College Azamgarh.
+👩‍💻 Hi, I'm Kajal Saini
 
-My approach combines clean code, aesthetic design principles, and problem-solving skills to deliver quality digital experiences. I'm also exploring **Machine Learning** and **UI/UX Design**, driven by curiosity and a constant desire to improve.
+I’m a passionate and dedicated Web Developer from India, with a strong focus on building responsive, scalable, and user-friendly applications.
+
+🚀 What I Do
+
+Craft modern websites using JavaScript, React.js, and Next.js.
+
+Design smooth and intuitive UI/UX 🎨 that enhances user experience.
+
+Blend clean code with creative design to bring ideas to life.
+
+🚀 My goal is to become a versatile software developer, crafting impactful digital solutions and contributing to the developer community.
 
 ---
 
@@ -21,16 +31,18 @@ My approach combines clean code, aesthetic design principles, and problem-solvin
 - 🎨 **Design:** UI/UX Fundamentals  
 - 🤖 **Machine Learning:** Basics, with practical project experience  
 - ✍️ **Content Writing:** Technical & creative  
-- 🛠 **Tools & Version Control:** Git, GitHub  
+- 🛠 **Tools & Version Control:** Git, GitHub
+- 🎨 **UI/UX:** Responsive desing, wireframing, prototyping
+- ✨ **Interests:** Building full-stacl apps, creating eamless user experiences and contributing to open-source
 
 ---
 
 ## 💼 Experience
-
+- **Full-Stack Development Intern** @ GNCIPL (Virtual)
+- **Frontend Developer Intern** @CODEXINTERN (Virtual)
+- **Web Development Intern** @ Codsoft (Virtual)  
 - **Machine Learning Intern** @ Prodigy Infotech (Virtual) 
 - **Content Writing Intern** @ InAmigos Foundation (Virtual)
-- **NGO Intern** @ NayePankh Foundation (Virtual)
-- **Frontend Developer Intern** @CODEXINTERN (Virtual)
 
 ---
 
@@ -52,6 +64,8 @@ My approach combines clean code, aesthetic design principles, and problem-solvin
 
 - Machine Learning
 - Frontend Developer
+- Web Development
+- Full-Stack Development
 - Cyber Security  
 - Content Writing  
 - Induction Programme (Organizing Committee)  
