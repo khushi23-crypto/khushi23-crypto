@@ -106,8 +106,9 @@ Blend clean code with creative design to bring ideas to life.
 ---
 
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=khushi23-crypto&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=khushi23-crypto&color=blue" alt="Profile Views" />
 </p>
+
 
 ---
 
