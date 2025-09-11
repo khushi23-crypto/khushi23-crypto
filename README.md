@@ -10,17 +10,13 @@
 ---
 
 👩‍💻 Hi, I'm Kajal Saini
-
 I’m a passionate and dedicated Web Developer from India, with a strong focus on building responsive, scalable, and user-friendly applications.
 
 🚀 What I Do
 
 Craft modern websites using JavaScript, React.js, and Next.js.
-
 Design smooth and intuitive UI/UX 🎨 that enhances user experience.
-
 Blend clean code with creative design to bring ideas to life.
-
 🚀 My goal is to become a versatile software developer, crafting impactful digital solutions and contributing to the developer community.
 
 ---
@@ -47,15 +43,19 @@ Blend clean code with creative design to bring ideas to life.
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 🚀 Tech Toolbox & Skills
 
-- 💻 **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
-- 🎨 **Design:** UI/UX Fundamentals  
-- 🤖 **Machine Learning:** Basics, with practical project experience  
-- ✍️ **Content Writing:** Technical & creative  
-- 🛠 **Tools & Version Control:** Git, GitHub
-- 🎨 **UI/UX:** Responsive desing, wireframing, prototyping
-- ✨ **Interests:** Building full-stacl apps, creating eamless user experiences and contributing to open-source
+![HTML](https://img.shields.io/badge/-HTML5-ff6a00?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+**Languages & Tools:** JavaScript · TypeScript · React · Node.js · Express · MongoDB · Tailwind · HTML · CSS · Git · VS Code
 
 ---
 
@@ -73,12 +73,6 @@ Blend clean code with creative design to bring ideas to life.
 - 🎓 **B.Tech in Information Technology**  
   *Rajkiya Engineering College Azamgarh* (2022–Present)  
   CGPA: **8.40/10**
-
-- 🏫 **12th (UP Board)**  
-  Vishwa Bhartiya Girls Inter College, Fatehpur — *79.16%*
-
-- 🏫 **10th (UP Board)**  
-  Vishwa Bhartiya Girls Inter College, Fatehpur — *87.16%*
 
 ---
 
