@@ -25,6 +25,22 @@ Blend clean code with creative design to bring ideas to life.
 
 ---
 
+## 📊 GitHub Stats & Contribution Graph
+
+<!-- GitHub overall stats card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=dark)
+
+<!-- Top languages used -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+
+<!-- Contribution graph -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&area=true)
+
+<!-- Streaks -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)
+
+---
+
 ## 🚀 Tech Stack & Skills
 
 - 💻 **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
