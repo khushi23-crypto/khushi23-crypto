@@ -24,22 +24,22 @@ Blend clean code with creative design to bring ideas to life.
 ## 📊 GitHub Stats & Contribution Graph
 
 <!-- GitHub overall stats card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&count_private=true&theme=blue)
 
 <!-- Top languages used -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&layout=compact&theme=blue)
 
 <!-- Contribution graph -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=khushi23-crypto&theme=dark&hide_border=true&area=true)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=khushi23-crypto&theme=blue&hide_border=true&area=true)
 
 <!-- Streaks -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushi23-crypto&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushi23-crypto&theme=blue&hide_border=true)
 
 ---
 
 ## 📈 More Metrics (optional)
 <!-- Example: extra stats like commits, prs, issues — provided by the same service family -->
-![Metrics](https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true)
+![Metrics](https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&theme=blue&count_private=true&include_all_commits=true&hide_title=true)
 
 ---
 
