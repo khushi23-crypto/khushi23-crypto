@@ -92,6 +92,10 @@ Blend clean code with creative design to bring ideas to life.
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=khushi23-crypto&color=blue)
+
+---
+
 > *“I believe in learning by doing. Every project is a step toward mastery, and every bug is a chance to grow.”* — Kajal Saini
 
 ---
