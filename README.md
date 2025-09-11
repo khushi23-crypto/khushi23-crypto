@@ -41,6 +41,12 @@ Blend clean code with creative design to bring ideas to life.
 
 ---
 
+## 📈 More Metrics (optional)
+<!-- Example: extra stats like commits, prs, issues — provided by the same service family -->
+![Metrics](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true)
+
+---
+
 ## 🚀 Tech Stack & Skills
 
 - 💻 **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
