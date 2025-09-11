@@ -23,23 +23,17 @@ Blend clean code with creative design to bring ideas to life.
 
 ## 📊 GitHub Stats & Contribution Graph
 
-<!-- GitHub overall stats card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&count_private=true&theme=blue)
+<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&count_private=true&theme=dark)
+</p>
 
-<!-- Top languages used -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&layout=compact&theme=blue)
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&layout=compact&theme=dark)
+</p>
 
-<!-- Contribution graph -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=khushi23-crypto&theme=blue&hide_border=true&area=true)
-
-<!-- Streaks -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushi23-crypto&theme=blue&hide_border=true)
-
----
-
-## 📈 More Metrics (optional)
-<!-- Example: extra stats like commits, prs, issues — provided by the same service family -->
-![Metrics](https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&theme=blue&count_private=true&include_all_commits=true&hide_title=true)
+<p align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushi23-crypto&theme=dark&hide_border=true)
+</p>
 
 ---
 
@@ -55,7 +49,6 @@ Blend clean code with creative design to bring ideas to life.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-**Languages & Tools:** JavaScript · TypeScript · React · Node.js · Express · MongoDB · Tailwind · HTML · CSS · Git · VS Code
 
 ---
 
@@ -108,7 +101,9 @@ Blend clean code with creative design to bring ideas to life.
 
 ---
 
+<p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=khushi23-crypto&color=blue)
+</p>
 
 ---
 
@@ -116,5 +111,7 @@ Blend clean code with creative design to bring ideas to life.
 
 ---
 
-📩 **Contact me**: kajalsaini4466@gmail.com | 📞 9335700132  
+## 🌐 Let's Connect
+📩 **Email**: kajalsaini4466@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/kajal-saini-849a9332a/
 📍 Based in India
