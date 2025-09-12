@@ -24,25 +24,22 @@ Blend clean code with creative design to bring ideas to life.
 ## 📊 GitHub Stats & Contribution Graph
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Streaks -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi23-crypto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ---
 
 ## 🚀 Tech Toolbox & Skills
 
+<p align="center"
 ![HTML](https://img.shields.io/badge/-HTML5-ff6a00?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -52,7 +49,7 @@ Blend clean code with creative design to bring ideas to life.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-
+</p>
 
 ---
 
