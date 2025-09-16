@@ -64,7 +64,8 @@ Blend clean code with creative design to bring ideas to life.
 
 ## 📚 Education
 
-- 🎓 **B.Tech in Information Technology**  
+- 🎓 **B.Tech in Information Technology**
+- **AKTU**
   *Rajkiya Engineering College Azamgarh* (2022–Present)  
   CGPA: **8.40/10**
 
