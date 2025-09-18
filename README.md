@@ -1,127 +1,105 @@
-# 👩‍💻 Hi, I'm Kajal Saini
+<!-- Header -->
+<h1 align="center">👩‍💻 Hi, I'm Kajal Saini</h1>
 
-**Web Developer | Frontend Enthusiast | Tech Learner**
-
-🌐 [LinkedIn](https://www.linkedin.com/in/kajal-saini-849a9332a)
-🐙 [GitHub](https://github.com/kajalsaini611)
-📸 [Instagram](https://www.instagram.com/kj_saini_22.10/)
-💼 [Freelancer](https://www.freelancer.in/u/kajalsaini4466)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Web+Developer;Frontend+Enthusiast;Tech+Learner" alt="Typing Animation" />
+</h3>
 
 ---
 
-👩‍💻 Hi, I'm Kajal Saini
-I’m a passionate and dedicated Web Developer from India, with a strong focus on building responsive, scalable, and user-friendly applications.
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kajal-saini-849a9332a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://github.com/khushi23-crypto"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:kajalsaini4466@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-🚀 What I Do
+---
 
-Craft modern websites using JavaScript, React.js, and Next.js.
-Design smooth and intuitive UI/UX 🎨 that enhances user experience.
-Blend clean code with creative design to bring ideas to life.
-🚀 My goal is to become a versatile software developer, crafting impactful digital solutions and contributing to the developer community.
+### 🚀 About Me
+- 💻 Passionate Web Developer from India.  
+- 🎨 Focused on **React.js, Next.js, and UI/UX** design.  
+- 🌱 Currently learning **Full-Stack Development & AI/ML**.  
+- ✨ Believe in *“Learning by doing”*.  
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi23-crypto&token=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&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi23-crypto&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 
-### 🔥 GitHub Streak
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=khushi-23crypto)](https://git.io/streak-stats)
-
-</div>
-
-
-### 💻 Top Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&token=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&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 ---
 
-## 🚀 Tech Toolbox & Skills
-
+### 🛠️ Tech Toolbox
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-ff6a00?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,figma,vscode" />
 </p>
 
 ---
 
-## 💼 Experience
-- **Full-Stack Development Intern** @ GNCIPL (Virtual)
-- **Frontend Developer Intern** @CODEXINTERN (Virtual)
-- **Web Development Intern** @ Codsoft (Virtual)  
-- **Machine Learning Intern** @ Prodigy Infotech (Virtual) 
-- **Content Writing Intern** @ InAmigos Foundation (Virtual)
+### 💼 Experience
+- 🌐 **Full-Stack Development Intern** @ GNCIPL (Virtual)  
+- 🎨 **Frontend Developer Intern** @ CODEXINTERN (Virtual)  
+- 💻 **Web Development Intern** @ Codsoft (Virtual)  
+- 🤖 **Machine Learning Intern** @ Prodigy Infotech (Virtual)  
+- ✍️ **Content Writing Intern** @ InAmigos Foundation (Virtual)  
 
 ---
 
-## 📚 Education
-
-- 🎓 **B.Tech in Information Technology**
-- **AKTU**
-  *Rajkiya Engineering College Azamgarh* (2022–Present)  
-  CGPA: **8.40/10**
+### 🎓 Education
+- B.Tech in Information Technology  
+- **AKTU Rajkiya Engineering College, Azamgarh** (2022–Present)  
+- CGPA: **8.40/10**  
 
 ---
 
-## 🌟 Certifications
-
-- Machine Learning
-- Frontend Developer
-- Web Development
-- Full-Stack Development
+### 🌟 Certifications
+- Machine Learning  
+- Frontend Development  
+- Web Development  
+- Full-Stack Development  
 - Cyber Security  
 - Content Writing  
 - Induction Programme (Organizing Committee)  
 
 ---
 
-## 🌍 Projects
-
-- ✈️ [Travelastic Website](https://top-jqy5-lp3587269s-projects.vercel.app/)  
+### 🌍 Projects
+- ✈️ [Travelastic Website](https://top-jqy5-lp3587269s-projects.vercel.app/)
 - 🚘 [AutoCare Landing Page](https://shimmering-semifreddo-73845c.netlify.app/)
-- 💬 [ChatBOT-react](https://chat-bot-react-tau.vercel.app/)
-- 🌸 *Iris Flower Classification (ML)*  
-- 🧑‍💼 *Automatic Attendance System with Face Recognition (Mini Project)*
+- 💬 [ChatBOT (React)](https://chat-bot-react-tau.vercel.app/)
+- 🌸 [Quote App (React)](https://quote-app-react-omega.vercel.app/)
+- 🧑‍💼 [Employee Management System (React)](https://employee-management-system-react.vercel.app/)
 
 ---
 
-## ⚡ Interests
-
-- Web Development & UI/UX 🎨
-- Badminton 🏸    
+### ⚡ Interests
+- Web Development & UI/UX 🎨  
 - Artificial Intelligence / Machine Learning 🤖  
-- Photography 📷  
-- Video Editing 🎬  
+- Badminton 🏸 | Photography 📷 | Video Editing 🎬  
 
 ---
 
+### 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushi23-crypto&color=blue&token=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" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=khushi23-crypto&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
+### ✨ Quote
+> “I believe in learning by doing. Every project is a step toward mastery, and every bug is a chance to grow.” — *Kajal Saini*  
 
 ---
 
-> *“I believe in learning by doing. Every project is a step toward mastery, and every bug is a chance to grow.”* — Kajal Saini
-
----
-
-## 🌐 Let's Connect
-📩 **Email**: kajalsaini4466@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/kajal-saini-849a9332a/
-📍 Based in India
+### 🌐 Let's Connect
+📩 Email: **kajalsaini4466@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/kajal-saini-849a9332a](https://www.linkedin.com/in/kajal-saini-849a9332a/)  
+🐙 GitHub: [github.com/khushi23-crypto](https://github.com/khushi23-crypto)  
+📍 Based in India 🇮🇳  
