@@ -24,22 +24,22 @@ Blend clean code with creative design to bring ideas to life.
 ## 📊 GitHub Stats & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi23-crypto&token=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&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&count_private=true&theme=tokyonight&token=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" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&token=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&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&layout=compact&theme=tokyonight&token=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" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi23-crypto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi23-crypto&theme=tokyonight&hide_border=true&token=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" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🚀 Tech Toolbox & Skills
 
-<p align="center"
+<p align="center">
 ![HTML](https://img.shields.io/badge/-HTML5-ff6a00?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -104,7 +104,7 @@ Blend clean code with creative design to bring ideas to life.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushi23-crypto&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=khushi23-crypto&color=blue&token=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" alt="Profile Views" />
 </p>
 
 
