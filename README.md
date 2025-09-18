@@ -24,11 +24,11 @@ Blend clean code with creative design to bring ideas to life.
 ## 📊 GitHub Stats & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi23-crypto&token=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&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&token=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&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
