@@ -24,7 +24,7 @@ Blend clean code with creative design to bring ideas to life.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi23-crypto&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi23-crypto&token=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&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 ### 🔥 GitHub Streak
@@ -36,7 +36,7 @@ Blend clean code with creative design to bring ideas to life.
 ### 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi23-crypto&token=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&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
