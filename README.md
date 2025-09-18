@@ -29,9 +29,12 @@ Blend clean code with creative design to bring ideas to life.
 
 ### 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=khushi-23crypto)](https://git.io/streak-stats)
-</p>
+
+</div>
+
 
 ### 💻 Top Languages
 
