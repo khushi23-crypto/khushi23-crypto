@@ -30,7 +30,7 @@ Blend clean code with creative design to bring ideas to life.
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khushi23-crypto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=khushi-23crypto)](https://git.io/streak-stats)
 </p>
 
 ### 💻 Top Languages
