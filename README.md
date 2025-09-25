@@ -1,4 +1,4 @@
-<!-- Header -->
+
 <h1 align="center">👩‍💻 Hi, I'm Kajal Saini</h1>
 
 <h3 align="center">
@@ -7,7 +7,6 @@
 
 ---
 
-<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kajal-saini-849a9332a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="https://github.com/khushi23-crypto"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
