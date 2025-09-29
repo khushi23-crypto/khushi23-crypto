@@ -51,7 +51,7 @@
 
 ### 🎓 Education
 - B.Tech in Information Technology
-
+- **Dr. A.P.J. Abdul Kalam Technical University(AKTU), Lucknow**
 - **AKTU Rajkiya Engineering College, Azamgarh** (2022–Present)  
 - CGPA: **8.60/10**  
 
