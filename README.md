@@ -57,14 +57,11 @@
 
 ---
 
-### 🌟 Certifications
-- Machine Learning  
+### 🌟 Certifications 
 - Frontend Development  
 - Web Development  
 - Full-Stack Development  
 - Cyber Security  
-- Content Writing  
-- Induction Programme (Organizing Committee)  
 
 ---
 
