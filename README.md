@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 - 💻 Passionate Web Developer from India.  
-- 🎨 Focused on **React.js, Next.js, and UI/UX** design.  
+- 🎨 Focused on **React.js, Next.js, UI/UX design, Node.js, Express.js and MongoDB**.  
 - 🌱 Currently learning **Full-Stack Development**.  
 - ✨ Believe in *“Learning by doing”*.  
 
