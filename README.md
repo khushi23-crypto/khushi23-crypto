@@ -46,13 +46,12 @@
 - 🌐 **Full-Stack Development Intern** @ GNCIPL (Virtual)  
 - 🎨 **Frontend Developer Intern** @ CODEXINTERN (Virtual)  
 - 💻 **Web Development Intern** @ Codsoft (Virtual)  
-- 🤖 **Machine Learning Intern** @ Prodigy Infotech (Virtual)  
-- ✍️ **Content Writing Intern** @ InAmigos Foundation (Virtual)  
 
 ---
 
 ### 🎓 Education
-- B.Tech in Information Technology  
+- B.Tech in Information Technology
+
 - **AKTU Rajkiya Engineering College, Azamgarh** (2022–Present)  
 - CGPA: **8.60/10**  
 
