@@ -66,11 +66,11 @@
 ---
 
 ### 🌍 Projects
-- ✈️ [Travelastic Website](https://top-jqy5-lp3587269s-projects.vercel.app/)
-- 🚘 [AutoCare Landing Page](https://shimmering-semifreddo-73845c.netlify.app/)
 - 💬 [ChatBOT (React)](https://chat-bot-react-tau.vercel.app/)
 - 🌸 [Quote App (React)](https://quote-app-react-omega.vercel.app/)
 - 🧑‍💼 [Employee Management System (React)](https://employee-management-system-react.vercel.app/)
+- ✈️ [Travelastic Website](https://top-jqy5-lp3587269s-projects.vercel.app/)
+- 🚘 [AutoCare Landing Page](https://shimmering-semifreddo-73845c.netlify.app/)
 
 ---
 
