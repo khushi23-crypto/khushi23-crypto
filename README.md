@@ -1,4 +1,3 @@
-
 <h1 align="center">👩‍💻 Hi, I'm Kajal Saini</h1>
 
 <h3 align="center">
